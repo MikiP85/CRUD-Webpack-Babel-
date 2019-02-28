@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "Starter pack for compiling ES6+ apps to ES5",
   "main": "app.js",
+  "homepage": "https://mikip85.github.io/CRUD-Webpack-Babel-/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot",
     "build": "webpack --mode production --progress",
-    "json-server": "json-server --watch api/db.json"
+    "json-server": "json-server --watch api/db.json",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "MIT",
