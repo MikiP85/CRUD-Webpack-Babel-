@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "Title One",
+      "body": "Body One",
+      "id": 1
+    },
+    {
+      "title": "Title Two",
+      "body": "Body Two",
+      "id": 2
+    },
+    {
+      "title": "Title Three",
+      "body": "Body Three",
+      "id": 3
+    },
+    {
+      "title": "Title Four",
+      "body": "Body Four",
+      "id": 4
+    }
+  ]
+}
